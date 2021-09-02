@@ -1,4 +1,4 @@
-# A Raspberry Pi Pico library for RDA5807
+# RDA5807 FM radio library for the Raspberry Pi Pico
 
 This library provides a convenient interface to the RDA5807 FM radio chip from RDA Microelectronics. It targets the Raspberry Pi Pico and similar RP2040 based boards using the C/C++ SDK.
 
