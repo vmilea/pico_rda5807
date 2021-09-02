@@ -2,6 +2,8 @@
 
 This library provides a convenient interface to the RDA5807 FM radio chip from RDA Microelectronics. It targets the Raspberry Pi Pico and similar RP2040 based boards using the C/C++ SDK.
 
+![RDA5807M_400px](https://user-images.githubusercontent.com/278476/131880973-bcd468be-c54e-4abb-b385-dbdfcb7c8bb3.png)
+
 ## Overview
 
 Main controls:
@@ -63,7 +65,7 @@ When powering the FM chip straight from Pico 3v3 OUT there is a fair amount of n
 
 ## Links
 
-pico_si470x is a similar library for the Si4702 / Si4703 FM radio chips.
+[pico_si470x](https://github.com/vmilea/pico_si470x) is a similar library for the Si4702 / Si4703 FM radio chips.
 
 ## Authors
 
